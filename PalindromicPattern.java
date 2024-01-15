@@ -20,3 +20,11 @@ public class PalindromicPattern {
         }
     }
 }
+
+/* Implementation of knapsak algoritham */
+/* Implementation of two matrices */
+/* Implementation of huffman coding algoritham */
+/* Implementation of selection sort algoritham */
+/* Implementation of task sheduling algoritham */
+/* Implementation of bubble sort algoritham */
+/* Implementation of fractional knapsak algoritham */
